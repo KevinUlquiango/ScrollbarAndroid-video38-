@@ -12,8 +12,7 @@ cambiar el nombre del icono colocado en estos 2 lineas de codigo en el manifes
 ```
 ```
 
-        android:icon="@mipmap/NOMBRE-ICONO"
-
-        android:roundIcon="@mipmap/NOMBRE-ICONO"
+android:icon="@mipmap/NOMBRE-ICONO"
+android:roundIcon="@mipmap/NOMBRE-ICONO"
 
 ```
